@@ -1,4 +1,4 @@
-# Elastic SIEM Lab Setup
+# SIEM Lab Setup
 
 This repository provides step-by-step instructions to build an Elastic SIEM lab using a Kali Linux VM and push telemetry to it. This practical lab will give you hands-on experience with a SIEM tool, which is critical for SOC analyst work.
 
