@@ -98,6 +98,15 @@ This guide will help you build a home SIEM lab using Elastic SIEM and a Kali Lin
 2. Create more dashboards and alerts to robustly monitor security events.
 3. Document your setup and experiments for use in job interviews.
 
+### Skills and Technologies
+
+- **SIEM Deployment and Configuration**: Gained hands-on experience in deploying and configuring Elastic SIEM, including setting up Elastic Cloud instances, integrating Elastic Defend, and installing Elastic Agents on endpoints to monitor and collect security telemetry.
+
+- **Security Event Analysis and Visualization**: Developed skills in generating, analyzing, and visualizing security events using tools like Kibana. Created dashboards and visualizations to monitor network activity, detect anomalies, and investigate potential security incidents effectively.
+
+- **Alert Management and Incident Response**: Learned to create and manage custom security alerts within the SIEM environment. Configured automated actions, such as email notifications, to promptly respond to detected threats, enhancing the ability to manage and mitigate security incidents in a SOC environment.
+
+
 ## References
 
 - [Elastic Cloud](https://www.elastic.co/cloud/)
